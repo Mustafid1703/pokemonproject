@@ -1,5 +1,5 @@
-import React from "react";
-import logo from "../assets/Pokemon.png";
+
+import logo from "../../assets/pokemon.png"; // bukan ../src/assets
 import "./Nav.css";
 
 export default function Nav() {
